@@ -1,4 +1,4 @@
-<h1 align="center">Patient and Doctor Helping Project</h1>
+<h1 align="center">Patient and Doctor Helper</h1>
 
 <img align="right" alt="coding" width="500"  src="https://media.tenor.com/nYCc0GbYYp8AAAAC/healthy-doctor.gif">
 
